@@ -1,0 +1,11 @@
+OPERATING SYSTEM:
+The Software that manages everything that goes on in the computer
+
+There are actually two main parts:
+
+1) Kernel (It talks directly to hardware and manage our system resources)---- > System's resources ---> Disk ---> Memory ---> Network
+ "As user we don't interact with the kernel directly"
+
+2) User Space
+"The user space is basically outside the kernel"
+
